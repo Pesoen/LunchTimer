@@ -10,3 +10,5 @@ it will also display a small text next to the current time in the bottom, to hel
 the program will stay on top. and you can minimize it, i am working on a tray icon, instead of taskbar icon.
 
 it has some settings, use right click to see what it can do.
+
+unable to create an installer for it, error with my program, but the exe should work fine.
